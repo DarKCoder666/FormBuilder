@@ -8,6 +8,6 @@
 5) [1h] Text widget with DnD and settings(modal) functionality
 6) [0.5h] Show all recorded data in Data section
 
-Bonus Points tasks:
+## Bonus Points tasks:
 7) [2h] Select widget
 8) [2.5h] "Value depends on" setting 
